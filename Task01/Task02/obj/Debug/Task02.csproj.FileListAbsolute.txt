@@ -1,0 +1,9 @@
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw2-Neonchick\Task01\Task02\bin\Debug\Task02.exe.config
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw2-Neonchick\Task01\Task02\bin\Debug\Task02.exe
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw2-Neonchick\Task01\Task02\bin\Debug\Task02.pdb
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw2-Neonchick\Task01\Task02\bin\Debug\StreetLib.dll
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw2-Neonchick\Task01\Task02\bin\Debug\StreetLib.pdb
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw2-Neonchick\Task01\Task02\obj\Debug\Task02.csprojAssemblyReference.cache
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw2-Neonchick\Task01\Task02\obj\Debug\Task02.csproj.CopyComplete
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw2-Neonchick\Task01\Task02\obj\Debug\Task02.exe
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw2-Neonchick\Task01\Task02\obj\Debug\Task02.pdb

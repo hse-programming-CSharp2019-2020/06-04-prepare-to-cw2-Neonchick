@@ -1,0 +1,5 @@
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw2-Neonchick\Task01\StreetLib\bin\Debug\StreetLib.dll
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw2-Neonchick\Task01\StreetLib\bin\Debug\StreetLib.pdb
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw2-Neonchick\Task01\StreetLib\obj\Debug\StreetLib.csprojAssemblyReference.cache
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw2-Neonchick\Task01\StreetLib\obj\Debug\StreetLib.dll
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw2-Neonchick\Task01\StreetLib\obj\Debug\StreetLib.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task01", "Task01\Task01.csproj", "{9FC41C40-5B09-4EB2-ADBE-838ED7C7AD55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreetLib", "StreetLib\StreetLib.csproj", "{99826AEA-B4F5-4C21-9484-39ED614421D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task02", "Task02\Task02.csproj", "{63B84068-CEEE-46D3-95DF-94F063F33234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC41C40-5B09-4EB2-ADBE-838ED7C7AD55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC41C40-5B09-4EB2-ADBE-838ED7C7AD55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC41C40-5B09-4EB2-ADBE-838ED7C7AD55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC41C40-5B09-4EB2-ADBE-838ED7C7AD55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99826AEA-B4F5-4C21-9484-39ED614421D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99826AEA-B4F5-4C21-9484-39ED614421D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99826AEA-B4F5-4C21-9484-39ED614421D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99826AEA-B4F5-4C21-9484-39ED614421D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B84068-CEEE-46D3-95DF-94F063F33234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B84068-CEEE-46D3-95DF-94F063F33234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B84068-CEEE-46D3-95DF-94F063F33234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B84068-CEEE-46D3-95DF-94F063F33234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9115E97-488D-4907-A2EE-ABC46E9B821E}
+	EndGlobalSection
+EndGlobal
